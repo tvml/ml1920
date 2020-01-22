@@ -7,11 +7,9 @@ permalink: /dataset/
 header: no
 ---
 
-1. [`Housingdata.`{:.datalink}]({{ site.baseurl }}{%link dataset/housing.data.txt %}) Dataset abitazioni Boston.
+<!--1. [`Housingdata.`{:.datalink}]({{ site.baseurl }}{%link dataset/housing.data.txt %}) Dataset abitazioni Boston.
 
-<!--Raccolta di dataset utilizzati nei precedenti a.a., inseriti a scopo indicativo. 
-
-1. [`Jane Austen.`{:.datalink}]({{ site.baseurl }}{%link dataset/austen.jpg %}) Immagine di Jane Austen-->
+1. [`Jane Austen.`{:.datalink}]({{ site.baseurl }}{%link dataset/austen.jpg %}) Immagine di Jane Austen
 
 1. [`Iris.`{:.datalink}]({{ site.baseurl }}{%link dataset/iris.csv %}) Classificazione iris per caratteristiche di petalo e sepalo.
 1. [`Mammals.`{:.datalink}]({{ site.baseurl }}{%link dataset/mammals.csv %}) Peso e dimensione cervello in mammiferi.
@@ -25,7 +23,7 @@ header: no
 1. [`Titanic.`{:.datalink}]({{ site.baseurl }}{%link dataset/titanic.csv %}) Dataset Titanic.
 1. [`TestSet.`{:.datalink}]({{ site.baseurl }}{%link dataset/testSet.txt %}) Dataset per logistic regression.
 1. [`Esami.`{:.datalink}]({{ site.baseurl }}{%link dataset/esami.txt %}) Dataset esami per binary classification.
-1. [`Cifre.`{:.datalink}]({{ site.baseurl }}{%link dataset/digits.mat %}) Dataset MNIST immagini cifre numeriche.
+1. [`Cifre.`{:.datalink}]({{ site.baseurl }}{%link dataset/digits.mat %}) Dataset MNIST immagini cifre numeriche.-->
 
 
 

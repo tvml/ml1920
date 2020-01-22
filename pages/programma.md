@@ -6,7 +6,7 @@ teaser: ""
 permalink: /programma/
 header: no
 ---
-## Programma finale
+## Programma tentativo
 
 * Richiami di statistica bayesiana e apprendimento bayesiano <!--`10 ore`-->
 * Modelli grafici e reti bayesiane <!--`10 ore`-->

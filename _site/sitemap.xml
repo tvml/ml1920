@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-<!-- Pages: 33 links with priority=0.3, changefreq=monthly -->
+<!-- Pages: 28 links with priority=0.3, changefreq=monthly -->
 
 	
 	<url>
 	<loc>http://localhost:4000/ml1920/404.html</loc>
 	
-		<lastmod>2019-08-03T14:38:43+02:00</lastmod>
+		<lastmod>2020-01-22T01:58:53+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -22,7 +22,7 @@
 	<url>
 	<loc>http://localhost:4000/ml1920/blog/archive/</loc>
 	
-		<lastmod>2019-08-03T14:38:43+02:00</lastmod>
+		<lastmod>2020-01-22T01:58:53+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -39,7 +39,7 @@
 	<url>
 	<loc>http://localhost:4000/ml1920/atom.xml</loc>
 	
-		<lastmod>2019-08-03T14:38:43+02:00</lastmod>
+		<lastmod>2020-01-22T01:58:53+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -56,7 +56,7 @@
 	<url>
 	<loc>http://localhost:4000/ml1920/biblio/</loc>
 	
-		<lastmod>2019-08-03T14:38:43+02:00</lastmod>
+		<lastmod>2020-01-22T01:58:53+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -71,7 +71,7 @@
 	<url>
 	<loc>http://localhost:4000/ml1920/codici/</loc>
 	
-		<lastmod>2019-08-03T14:38:43+02:00</lastmod>
+		<lastmod>2020-01-22T01:58:53+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -86,7 +86,7 @@
 	<url>
 	<loc>http://localhost:4000/ml1920/comunicazioni/</loc>
 	
-		<lastmod>2019-08-03T14:38:43+02:00</lastmod>
+		<lastmod>2020-01-22T01:58:53+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -101,7 +101,7 @@
 	<url>
 	<loc>http://localhost:4000/ml1920/contact/</loc>
 	
-		<lastmod>2019-08-03T14:38:43+02:00</lastmod>
+		<lastmod>2020-01-22T01:58:53+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -116,7 +116,7 @@
 	<url>
 	<loc>http://localhost:4000/ml1920/dataset/</loc>
 	
-		<lastmod>2019-08-03T14:38:43+02:00</lastmod>
+		<lastmod>2020-01-22T01:58:53+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -131,7 +131,7 @@
 	<url>
 	<loc>http://localhost:4000/ml1920/feed.xml</loc>
 	
-		<lastmod>2019-08-03T14:38:43+02:00</lastmod>
+		<lastmod>2020-01-22T01:58:53+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -146,7 +146,7 @@
 	<url>
 	<loc>http://localhost:4000/ml1920/humans.txt</loc>
 	
-		<lastmod>2019-08-03T14:38:43+02:00</lastmod>
+		<lastmod>2020-01-22T01:58:53+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -161,7 +161,7 @@
 	<url>
 	<loc>http://localhost:4000/ml1920/blog/</loc>
 	
-		<lastmod>2019-08-03T14:38:43+02:00</lastmod>
+		<lastmod>2020-01-22T01:58:53+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -176,7 +176,7 @@
 	<url>
 	<loc>http://localhost:4000/ml1920/</loc>
 	
-		<lastmod>2019-08-03T14:38:43+02:00</lastmod>
+		<lastmod>2020-01-22T01:58:53+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -191,7 +191,7 @@
 	<url>
 	<loc>http://localhost:4000/ml1920/info/</loc>
 	
-		<lastmod>2019-08-03T14:38:43+02:00</lastmod>
+		<lastmod>2020-01-22T01:58:53+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -206,7 +206,7 @@
 	<url>
 	<loc>http://localhost:4000/ml1920/lezioni/</loc>
 	
-		<lastmod>2019-08-03T14:38:43+02:00</lastmod>
+		<lastmod>2020-01-22T01:58:53+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -221,7 +221,7 @@
 	<url>
 	<loc>http://localhost:4000/ml1920/lucidi/</loc>
 	
-		<lastmod>2019-08-03T14:38:43+02:00</lastmod>
+		<lastmod>2020-01-22T01:58:53+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -236,7 +236,7 @@
 	<url>
 	<loc>http://localhost:4000/ml1920/progetti/</loc>
 	
-		<lastmod>2019-08-03T14:38:43+02:00</lastmod>
+		<lastmod>2020-01-22T01:58:53+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -251,7 +251,7 @@
 	<url>
 	<loc>http://localhost:4000/ml1920/programma/</loc>
 	
-		<lastmod>2019-08-03T14:38:43+02:00</lastmod>
+		<lastmod>2020-01-22T01:58:53+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -266,7 +266,7 @@
 	<url>
 	<loc>http://localhost:4000/ml1920/redirect-page/</loc>
 	
-		<lastmod>2019-08-03T14:38:43+02:00</lastmod>
+		<lastmod>2020-01-22T01:58:53+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -281,7 +281,7 @@
 	<url>
 	<loc>http://localhost:4000/ml1920/robots.txt</loc>
 	
-		<lastmod>2019-08-03T14:38:43+02:00</lastmod>
+		<lastmod>2020-01-22T01:58:53+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -300,7 +300,7 @@
 	<url>
 	<loc>http://localhost:4000/ml1920/search/</loc>
 	
-		<lastmod>2019-08-03T14:38:43+02:00</lastmod>
+		<lastmod>2020-01-22T01:58:53+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -315,7 +315,7 @@
 	<url>
 	<loc>http://localhost:4000/ml1920/sitemap.xml</loc>
 	
-		<lastmod>2019-08-03T14:38:43+02:00</lastmod>
+		<lastmod>2020-01-22T01:58:53+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -330,7 +330,7 @@
 	<url>
 	<loc>http://localhost:4000/ml1920/store/</loc>
 	
-		<lastmod>2019-08-03T14:38:43+02:00</lastmod>
+		<lastmod>2020-01-22T01:58:53+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -345,7 +345,7 @@
 	<url>
 	<loc>http://localhost:4000/ml1920/style.css</loc>
 	
-		<lastmod>2019-08-03T14:38:43+02:00</lastmod>
+		<lastmod>2020-01-22T01:58:53+01:00</lastmod>
 	
 	
 		<changefreq>monthly</changefreq>
@@ -358,533 +358,8 @@
 
 	
 
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/blog/page2/</loc>
-	
-		<lastmod>2019-08-03T14:38:43+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
 
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/blog/page3/</loc>
-	
-		<lastmod>2019-08-03T14:38:43+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/blog/page4/</loc>
-	
-		<lastmod>2019-08-03T14:38:43+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/blog/page5/</loc>
-	
-		<lastmod>2019-08-03T14:38:43+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/blog/page6/</loc>
-	
-		<lastmod>2019-08-03T14:38:43+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.3</priority>
-	
-	</url>
-	
-
-
-<!-- Posts: 30 links with priority=0.5, changefreq=monthly -->
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/comunicazioni/appelli-sessione-autunnale/</loc>
-	
-		<lastmod>2019-08-03T00:00:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/lezioni/lezione/</loc>
-	
-		<lastmod>2019-06-04T00:00:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/lezioni/lezione/</loc>
-	
-		<lastmod>2019-05-30T00:00:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/lezioni/lezione/</loc>
-	
-		<lastmod>2019-05-28T00:00:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/comunicazioni/appelli-sessione-estiva/</loc>
-	
-		<lastmod>2019-05-28T00:00:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/lezioni/lezione/</loc>
-	
-		<lastmod>2019-05-23T00:00:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/lezioni/lezione/</loc>
-	
-		<lastmod>2019-05-21T00:00:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/lezioni/lezione/</loc>
-	
-		<lastmod>2019-05-16T00:00:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/lezioni/lezione/</loc>
-	
-		<lastmod>2019-05-14T00:00:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/lezioni/lezione/</loc>
-	
-		<lastmod>2019-05-13T00:00:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/lezioni/lezione/</loc>
-	
-		<lastmod>2019-05-09T00:00:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/lezioni/lezione/</loc>
-	
-		<lastmod>2019-05-07T00:00:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/comunicazioni/lezioni-deep-learning/</loc>
-	
-		<lastmod>2019-05-07T00:00:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/lezioni/lezione/</loc>
-	
-		<lastmod>2019-05-02T00:00:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/comunicazioni/lezione-rimandata/</loc>
-	
-		<lastmod>2019-04-30T00:00:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/lezioni/lezione/</loc>
-	
-		<lastmod>2019-04-23T00:00:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/lezioni/lezione/</loc>
-	
-		<lastmod>2019-04-18T00:00:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/lezioni/lezione/</loc>
-	
-		<lastmod>2019-04-16T00:00:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/lezioni/lezione/</loc>
-	
-		<lastmod>2019-04-11T00:00:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/lezioni/lezione/</loc>
-	
-		<lastmod>2019-04-09T00:00:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/lezioni/lezione/</loc>
-	
-		<lastmod>2019-04-04T00:00:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/lezioni/lezione/</loc>
-	
-		<lastmod>2019-04-02T00:00:00+02:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/lezioni/lezione/</loc>
-	
-		<lastmod>2019-03-28T00:00:00+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/comunicazioni/lezione-rimandata/</loc>
-	
-		<lastmod>2019-03-26T00:00:00+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/lezioni/lezione/</loc>
-	
-		<lastmod>2019-03-21T00:00:00+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/lezioni/lezione/</loc>
-	
-		<lastmod>2019-03-19T00:00:00+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/comunicazioni/orario/</loc>
-	
-		<lastmod>2019-03-15T00:00:00+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/lezioni/lezione/</loc>
-	
-		<lastmod>2019-03-14T00:00:00+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/lezioni/lezione/</loc>
-	
-		<lastmod>2019-03-12T00:00:00+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
-
-	
-	<url>
-	<loc>http://localhost:4000/ml1920/comunicazioni/python/</loc>
-	
-		<lastmod>2019-02-15T00:00:00+01:00</lastmod>
-	
-	
-		<changefreq>monthly</changefreq>
-	
-	
-		<priority>0.5</priority>
-	
-	</url>
-	
+<!-- Posts: 0 links with priority=0.5, changefreq=monthly -->
 
 
 </urlset>
