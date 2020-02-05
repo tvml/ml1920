@@ -11,9 +11,10 @@ header: no
 
 Le lezioni del corso si svolgono:
 
-* da definire
+* Martedì h. 11.00-13.30 aula 7
+* Giovedì h. 14.30-17.00 aula 7
 
-Le lezioni avranno inizio ...
+Le lezioni avranno inizio martedì 2-3-2020
 
 
 #### Ricevimento
