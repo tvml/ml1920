@@ -14,7 +14,7 @@ Le lezioni del corso si svolgono:
 * Martedì h. 11.00-13.30 aula 7
 * Giovedì h. 14.30-17.00 aula 7
 
-Le lezioni avranno inizio martedì 2-3-2020
+Le lezioni avranno inizio martedì 3-3-2020
 
 
 #### Ricevimento
@@ -57,9 +57,10 @@ offerte da librerie software ampiamente utilizzate nel settore.
 Il testo di riferimento principale è il seguente:
 `M. Bishop "Pattern Recognition and Machine Learning", Springer 2006`{:.alert}
 
-Saranno inoltre suggeriti altri testi sull'argomento liberamente disponibili in
+Alcuni temi trattati potranno fare riferimento a `K.P. Murphy "Machine Learning: a probabilistic perspective", MIT Press 2012`{:.alert} e a `I. Goodfellow, Y. Begio, A. Courville "Deep Learning", MIT Press 2016`{:.alert}
+
+Saranno inoltre suggeriti testi sull'argomento liberamente disponibili in
 formato pdf sul web.
 
 Infine, sarà reso disponibile il materiale didattico preparato dal docente,
-comprendente copia dei lucidi utilizzati nel corso delle lezioni ed ulteriori
-note su argomenti specifici.
+comprendente copia dei lucidi utilizzati nel corso delle lezioni.

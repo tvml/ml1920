@@ -7,6 +7,8 @@ permalink: /store/
 header: no
 ---
 
+1. [`ML teaser.`{:.filelink}]({{ site.baseurl }}{%link store/ML_teaser.pdf %}) Introduzione generale al Machine Learning
+
 <!--
 * Prima versione delle[`note`{:.codelink}]({{ site.baseurl }}{%link store/book.pdf %}) con capitoli di introduzione e sulla regressione.
 * [Introduzione](http://ruder.io/optimizing-gradient-descent/) al metodo della discesa del gradiente con panoramica sulle sue varianti 
@@ -15,6 +17,5 @@ header: no
 * [Backpropagation](https://www.youtube.com/watch?v=tIeHLnjs5U8) Esposizione e visualizzazione interattiva
 * [RNN](http://karpathy.github.io/2015/05/21/rnn-effectiveness/) Esposizione Recurrent Neural Networks
 * [LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) Esposizione Long Short Term Memory networks 
-* [`Bando`{:.codelink}]({{ site.baseurl }}{%link store/bridgestone.pdf %}) hackaton Bridgestone
 -->
 

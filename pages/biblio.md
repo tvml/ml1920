@@ -40,7 +40,15 @@ Manuali per l'utilizzo di strumenti e librerie software
 * Documentazione package [Matplotlib](https://matplotlib.org/users/index.html)
 * Documentazione package [Pandas](https://pandas.pydata.org)
 * Documentazione package [Pymc3](https://docs.pymc.io)
-* [`Cheat sheet`{:.filelink}]({{ site.baseurl }}{%link varie/python_cheat_sheet.pdf %}) riassuntivi Python 
+* [`Cheat sheet Python`{:.filelink}]({{ site.baseurl }}{%link varie/python_cheat_sheet.pdf %})  
+* [`Cheat sheet Jupyter`{:.filelink}]({{ site.baseurl }}{%link varie/jupyter_cheat_sheet.pdf %})  
+* [`Cheat sheet Numpy`{:.filelink}]({{ site.baseurl }}{%link varie/numpy_cheat_sheet.pdf %})  
+* [`Cheat sheet Pandas`{:.filelink}]({{ site.baseurl }}{%link varie/pandas_cheat_sheet.pdf %})  
+* [`Cheat sheet Matplotlib`{:.filelink}]({{ site.baseurl }}{%link varie/matplotlib_cheat_sheet.pdf %})  
+* [`Cheat sheet Seaborn`{:.filelink}]({{ site.baseurl }}{%link varie/seaborn_cheat_sheet.pdf %})  
+* [`Cheat sheet Scipy`{:.filelink}]({{ site.baseurl }}{%link varie/scipy_cheat_sheet.pdf %})  
+* [`Cheat sheet Sklearn`{:.filelink}]({{ site.baseurl }}{%link varie/sklearn_cheat_sheet.pdf %})  
+* [`Cheat sheet Keras`{:.filelink}]({{ site.baseurl }}{%link varie/keras_cheat_sheet.pdf %})  
 
 
 
