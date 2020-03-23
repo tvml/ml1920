@@ -9,6 +9,33 @@
 		<atom:link href="http://localhost:4000/ml1920/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Organizzazione didattica online - 2</title>
+				<link>http://localhost:4000/ml1920/comunicazioni/python/</link>
+				<pubDate>Thu, 12 Mar 2020 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;Attivata la classe virtuale su Microsoft Teams. Gli studenti iscritti attraverso Delphi dovrebbero essere automaticamente membri della classe: prego verificare. Gli studenti che non fossero in grado di iscriversi attraverso Delphi me lo comunichino via mail, in modo che possa provvedere io direttamente. Nel canale Comunicazioni della classe ho caricato un breve video in cui espongo l’organizzazione del corso in queste nuove condizioni. La chat del canale Comunicazioni dovrebbe essere accessibile, anche in scrittura, a tutti voi e piò essere utilizzata, in tal caso, come canale di comunicazione sulle questioni generali. L’altro canale, Lezioni, sarà utilizzato per inserire materiale didattico e video.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/ml1920/comunicazioni/python/</guid>
+			</item>
+		
+			<item>
+				<title>Organizzazione didattica online - 1</title>
+				<link>http://localhost:4000/ml1920/comunicazioni/python/</link>
+				<pubDate>Mon, 09 Mar 2020 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;Nell’ambito della riorganizzazione della didattica in corso, si prevede l’utilizzo della piattaforma Microsoft Teams come supporto alle attività del corso. Siete pregati, come primo step, di effettuare l’iscrizione al corso di Machine Learning attraverso Delphi. Prego coloro i quali sono impossibilitati a far ciò attraverso Delphi di inviarmi comunque comunicazione del loro interesse a seguire il corso mediante mail a giorgio.gambosi@uniroma2.it.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/ml1920/comunicazioni/python/</guid>
+			</item>
+		
+			<item>
+				<title>Lezioni annullate COVID-19</title>
+				<link>http://localhost:4000/ml1920/comunicazioni/python/</link>
+				<pubDate>Wed, 04 Mar 2020 00:00:00 +0100</pubDate>
+				<description>&lt;p&gt;In conseguenza del decreto del CdM che sospende le attività didattiche in tutti gli Atenei fino al 15-3-2020, le lezioni previste per i giorni 5-3, 10-3 e 12-3 sono annullate.&lt;/p&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/ml1920/comunicazioni/python/</guid>
+			</item>
+		
+			<item>
 				<title>Lezione 1</title>
 				<link>http://localhost:4000/ml1920/lezioni/lezione/</link>
 				<pubDate>Mon, 02 Mar 2020 00:00:00 +0100</pubDate>

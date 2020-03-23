@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 	<id>http://localhost:4000/ml1920/</id>
 	<title>Machine learning</title>
-	<updated>2020-03-02T22:10:47+01:00</updated>
+	<updated>2020-03-20T10:14:53+01:00</updated>
 
 	<subtitle>Informazioni, comunicazioni e materiali relativi al corso di Machine learning, CdLM in Informatica, Università di Roma Tor Vergata.</subtitle>
 
@@ -24,6 +24,96 @@
 
 	<generator uri="http://jekyllrb.com" version="3.8.5">Jekyll</generator>
 
+	
+		<entry>
+			<id>http://localhost:4000/ml1920/comunicazioni/python/</id>
+			<title>Organizzazione didattica online - 2</title>
+			<link href="http://localhost:4000/ml1920/comunicazioni/python/" rel="alternate" type="text/html" title="Organizzazione didattica online - 2" />
+			<updated>2020-03-12T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/ml1920/comunicazioni/python/">&lt;p&gt;Attivata la classe virtuale su Microsoft Teams. Gli studenti iscritti attraverso Delphi dovrebbero essere automaticamente membri della classe: prego verificare. Gli studenti che non fossero in grado di iscriversi attraverso Delphi me lo comunichino via mail, in modo che possa provvedere io direttamente. Nel canale Comunicazioni della classe ho caricato un breve video in cui espongo l’organizzazione del corso in queste nuove condizioni. La chat del canale Comunicazioni dovrebbe essere accessibile, anche in scrittura, a tutti voi e piò essere utilizzata, in tal caso, come canale di comunicazione sulle questioni generali. L’altro canale, Lezioni, sarà utilizzato per inserire materiale didattico e video.&lt;/p&gt;
+</content>
+
+			
+				<category term="comunicazioni" />
+			
+			
+
+			<published>2020-03-12T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/ml1920/comunicazioni/python/</id>
+			<title>Organizzazione didattica online - 1</title>
+			<link href="http://localhost:4000/ml1920/comunicazioni/python/" rel="alternate" type="text/html" title="Organizzazione didattica online - 1" />
+			<updated>2020-03-09T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/ml1920/comunicazioni/python/">&lt;p&gt;Nell’ambito della riorganizzazione della didattica in corso, si prevede l’utilizzo della piattaforma Microsoft Teams come supporto alle attività del corso. Siete pregati, come primo step, di effettuare l’iscrizione al corso di Machine Learning attraverso Delphi. Prego coloro i quali sono impossibilitati a far ciò attraverso Delphi di inviarmi comunque comunicazione del loro interesse a seguire il corso mediante mail a giorgio.gambosi@uniroma2.it.&lt;/p&gt;
+</content>
+
+			
+				<category term="comunicazioni" />
+			
+			
+
+			<published>2020-03-09T00:00:00+01:00</published>
+		</entry>
+	
+		<entry>
+			<id>http://localhost:4000/ml1920/comunicazioni/python/</id>
+			<title>Lezioni annullate COVID-19</title>
+			<link href="http://localhost:4000/ml1920/comunicazioni/python/" rel="alternate" type="text/html" title="Lezioni annullate COVID-19" />
+			<updated>2020-03-04T00:00:00+01:00</updated>
+
+			
+				
+				<author>
+					
+						<name>Phlow</name>
+					
+					
+					
+						<uri>http://phlow.de/</uri>
+					
+				</author>
+			
+			<summary></summary>
+			<content type="html" xml:base="http://localhost:4000/ml1920/comunicazioni/python/">&lt;p&gt;In conseguenza del decreto del CdM che sospende le attività didattiche in tutti gli Atenei fino al 15-3-2020, le lezioni previste per i giorni 5-3, 10-3 e 12-3 sono annullate.&lt;/p&gt;
+</content>
+
+			
+				<category term="comunicazioni" />
+			
+			
+
+			<published>2020-03-04T00:00:00+01:00</published>
+		</entry>
 	
 		<entry>
 			<id>http://localhost:4000/ml1920/lezioni/lezione/</id>
