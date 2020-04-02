@@ -10,6 +10,7 @@ header: no
 1. [`TestSet.`{:.datalink}]({{ site.baseurl }}{%link dataset/testSet.txt %}) Dataset per logistic regression.
 1. [`Housingdata.`{:.datalink}]({{ site.baseurl }}{%link dataset/housing.data.txt %}) Dataset abitazioni Boston.
 1. [`Testo.`{:.datalink}]({{ site.baseurl }}{%link dataset/XwindowsDocData.mat %}) Occorrenze di termini in documenti.
+1. [`Titanic.`{:.datalink}]({{ site.baseurl }}{%link dataset/titanic.csv %}) Dataset Titanic.
 
 <!--1. [`Jane Austen.`{:.datalink}]({{ site.baseurl }}{%link dataset/austen.jpg %}) Immagine di Jane Austen
 
@@ -21,7 +22,6 @@ header: no
 1. [`Ex2data2.`{:.datalink}]({{ site.baseurl }}{%link dataset/ex2data2.txt %}) Dataset per classificazione binaria.
 1. [`3classi train.`{:.datalink}]({{ site.baseurl }}{%link dataset/knnClassify3c.csv %}) Training set a 3 classi.
 1. [`3classi test.`{:.datalink}]({{ site.baseurl }}{%link dataset/knnClassify3c-test.csv %}) Test set a 3 classi.
-1. [`Titanic.`{:.datalink}]({{ site.baseurl }}{%link dataset/titanic.csv %}) Dataset Titanic.
 1. [`Esami.`{:.datalink}]({{ site.baseurl }}{%link dataset/esami.txt %}) Dataset esami per binary classification.
 1. [`Cifre.`{:.datalink}]({{ site.baseurl }}{%link dataset/digits.mat %}) Dataset MNIST immagini cifre numeriche.-->
 
