@@ -17,14 +17,13 @@ header: no
 1. [`linregr_samples.`{:.codelink}]({{ site.baseurl }}{%link codici/linregr_samples.ipynb %}) Apprendimento sequenziale in bayesian regression (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/linregr_samples.ipynb)
 1. [`linregr_predict.`{:.codelink}]({{ site.baseurl }}{%link codici/linregr_predict.ipynb %}) Distribuzione predittiva in fully bayesian regression (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/linregr_predict.ipynb)
 1. [`titanic.`{:.codelink}]({{ site.baseurl }}{%link codici/titanic.ipynb %}) Classificazione su dataset Titanic (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/titanic.ipynb)
-
+1. [`Class_regr.`{:.codelink}]({{ site.baseurl }}{%link codici/class_regr.ipynb %}) Classificazione binaria mediante regressione lineare (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/class_regr.ipynb)
+1. [`LDA.`{:.codelink}]({{ site.baseurl }}{%link codici/lda.ipynb %}) Classificazione mediante LDA (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/lda.ipynb)
+1. [`Perceptron.`{:.codelink}]({{ site.baseurl }}{%link codici/perceptron.ipynb %}) Perceptron (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/perceptron.ipynb)
 
 <!--1. [`linregr_gradient.`{:.codelink}]({{ site.baseurl }}{%link codici/linregr_gradient.ipynb %}) Regressione lineare con gradiente (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/linregr_gradient.ipynb)
 1. [`equiv_kernel.`{:.codelink}]({{ site.baseurl }}{%link codici/equiv_kernel.ipynb %}) Calcolo e visualizzazione del kernel equivalente (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/equiv_kernel.ipynb)
-1. [`LDA.`{:.codelink}]({{ site.baseurl }}{%link codici/lda.ipynb %}) Classificazione mediante LDA (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/lda.ipynb)
 1. [`LDAdimred.`{:.codelink}]({{ site.baseurl }}{%link codici/lda_dimred.ipynb %}) Riduzione di dimensionalità mediante LDA (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/lda_dimred.ipynb)
-1. [`Perceptron.`{:.codelink}]({{ site.baseurl }}{%link codici/perceptron.ipynb %}) Perceptron (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/perceptron.ipynb)
-1. [`Class_regr.`{:.codelink}]({{ site.baseurl }}{%link codici/class_regr.ipynb %}) Classificazione binaria mediante regressione lineare (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/class_regr.ipynb)
 1. [`GDA lineare.`{:.codelink}]({{ site.baseurl }}{%link codici/gda.ipynb %}) Classificazione mediante GDA con covarianza comune (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/gda.ipynb)
 1. [`GDA.`{:.codelink}]({{ site.baseurl }}{%link codici/class_regr.ipynb %}) Classificazione mediante GDA nel caso generale (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/gdaquad.ipynb)
 1. [`GDA lineare in scikit-learn.`{:.codelink}]({{ site.baseurl }}{%link codici/gda-lin-sk-cv.ipynb %}) Classificazione mediante GDA con covarianza comune implementata in scikit-learn (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1819/blob/master/codici/gda-lin-sk-cv.ipynb)
