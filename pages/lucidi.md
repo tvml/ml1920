@@ -12,3 +12,4 @@ header: no
 1. [`Inferenza di modelli.`{:.filelink}]({{ site.baseurl }}{%link slides/modinf-slides.pdf %}) Richiami di inferenza di modelli
 1. [`Regressione lineare.`{:.filelink}]({{ site.baseurl }}{%link slides/linregr-slides.pdf %}) Regressione lineare
 1. [`Classificazione lineare.`{:.filelink}]({{ site.baseurl }}{%link slides/linclass-slides.pdf %}) Classificazione lineare
+1. [`Classificazione probabilistica.`{:.filelink}]({{ site.baseurl }}{%link slides/probclass-slides.pdf %}) Classificazione probabilistica
