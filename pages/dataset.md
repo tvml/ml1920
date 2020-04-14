@@ -15,6 +15,7 @@ header: no
 1. [`Ex2data2.`{:.datalink}]({{ site.baseurl }}{%link dataset/ex2data2.txt %}) Dataset per classificazione binaria.
 1. [`Esami.`{:.datalink}]({{ site.baseurl }}{%link dataset/esami.txt %}) Dataset esami per binary classification.
 1. [`Cifre.`{:.datalink}]({{ site.baseurl }}{%link dataset/digits.mat %}) Dataset MNIST immagini cifre numeriche.
+1. [`Bikes.`{:.datalink}]({{ site.baseurl }}{%link dataset/bikes.xls %}) Dataset biciclette su ponti East River (count data).
 
 <!--1. [`Jane Austen.`{:.datalink}]({{ site.baseurl }}{%link dataset/austen.jpg %}) Immagine di Jane Austen
 
