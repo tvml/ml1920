@@ -27,8 +27,9 @@ header: no
 1. [`GDA in scikit-learn.`{:.codelink}]({{ site.baseurl }}{%link codici/gda-sk-cv.ipynb %}) Classificazione mediante GDA (caso generale) implementata in scikit-learn (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/gda-sk-cv.ipynb)
 1. [`Logistic regression.`{:.codelink}]({{ site.baseurl }}{%link codici/logreg.ipynb %}) Classificazione mediante logistic regression (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/logreg.ipynb)
 1. [`Logistic regression con regolarizzazione.`{:.codelink}]({{ site.baseurl }}{%link codici/logregregbf.ipynb %}) Classificazione mediante logistic regression con regolarizzazione (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/logregregbf.ipynb)
+1. [`linregr_gradient.`{:.codelink}]({{ site.baseurl }}{%link codici/linregr_gradient.ipynb %}) Regressione lineare con gradiente (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/linregr_gradient.ipynb)
 
-<!--1. [`linregr_gradient.`{:.codelink}]({{ site.baseurl }}{%link codici/linregr_gradient.ipynb %}) Regressione lineare con gradiente (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/linregr_gradient.ipynb)
+<!--
 1. [`LDAdimred.`{:.codelink}]({{ site.baseurl }}{%link codici/lda_dimred.ipynb %}) Riduzione di dimensionalità mediante LDA (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/lda_dimred.ipynb)
 
 1. [`Parzen windows.`{:.codelink}]({{ site.baseurl }}{%link codici/parzen.ipynb %}) Applicazione delle Parzen windows alla classificazione (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/parzen.ipynb)
