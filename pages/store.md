@@ -8,6 +8,7 @@ header: no
 ---
 
 1. [`ML teaser.`{:.filelink}]({{ site.baseurl }}{%link store/ML_teaser.pdf %}) Introduzione generale al Machine Learning
+1. [`IRLS.`{:.filelink}]({{ site.baseurl }}{%link store/IRLS.pdf %}) Nota sulla struttura delle matrici nell'esposizione dell'algoritmo Iterated Reweighted Least Squares
 
 <!--
 * Prima versione delle[`note`{:.codelink}]({{ site.baseurl }}{%link store/book.pdf %}) con capitoli di introduzione e sulla regressione.
