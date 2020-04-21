@@ -27,7 +27,9 @@ header: no
 1. [`GDA in scikit-learn.`{:.codelink}]({{ site.baseurl }}{%link codici/gda-sk-cv.ipynb %}) Classificazione mediante GDA (caso generale) implementata in scikit-learn (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/gda-sk-cv.ipynb)
 1. [`Logistic regression.`{:.codelink}]({{ site.baseurl }}{%link codici/logreg.ipynb %}) Classificazione mediante logistic regression (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/logreg.ipynb)
 1. [`Logistic regression con regolarizzazione.`{:.codelink}]({{ site.baseurl }}{%link codici/logregregbf.ipynb %}) Classificazione mediante logistic regression con regolarizzazione (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/logregregbf.ipynb)
-1. [`linregr_gradient.`{:.codelink}]({{ site.baseurl }}{%link codici/linregr_gradient.ipynb %}) Regressione lineare con gradiente (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/linregr_gradient.ipynb)
+1. [`Linregr_gradient.`{:.codelink}]({{ site.baseurl }}{%link codici/linregr_gradient.ipynb %}) Regressione lineare con gradiente (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/linregr_gradient.ipynb)
+1. [`Iris.`{:.codelink}]({{ site.baseurl }}{%link codici/iris.ipynb %}) Visualizzazione dataset Iris (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/iris.ipynb)
+1. [`Softmax.`{:.codelink}]({{ site.baseurl }}{%link codici/softmax.ipynb %}) Esempio di sotmax regression (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/softmax.ipynb)
 
 <!--
 1. [`LDAdimred.`{:.codelink}]({{ site.baseurl }}{%link codici/lda_dimred.ipynb %}) Riduzione di dimensionalità mediante LDA (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/lda_dimred.ipynb)
