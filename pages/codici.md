@@ -32,6 +32,7 @@ header: no
 1. [`Softmax.`{:.codelink}]({{ site.baseurl }}{%link codici/softmax.ipynb %}) Esempio di sotmax regression (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/softmax.ipynb)
 1. [`MCMC.`{:.codelink}]({{ site.baseurl }}{%link codici/MCMC.ipynb %}) Esempio di applicazione di MCMC (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/MCMC.ipynb)
 1. [`linregr_mc.`{:.codelink}]({{ site.baseurl }}{%link codici/linregr_mc.ipynb %}) Regressione lineare mediante inferenza MCMC in pymc3 (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/linregr_mc.ipynb)
+1. [`ROC.`{:.codelink}]({{ site.baseurl }}{%link codici/ROC.ipynb %}) RROC e misure varie (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/ROC.ipynb)
 
 <!--
 1. [`LDAdimred.`{:.codelink}]({{ site.baseurl }}{%link codici/lda_dimred.ipynb %}) Riduzione di dimensionalità mediante LDA (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/lda_dimred.ipynb)
