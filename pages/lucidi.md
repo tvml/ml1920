@@ -13,3 +13,5 @@ header: no
 1. [`Regressione lineare.`{:.filelink}]({{ site.baseurl }}{%link slides/linregr-slides.pdf %}) Regressione lineare
 1. [`Classificazione lineare.`{:.filelink}]({{ site.baseurl }}{%link slides/linclass-slides.pdf %}) Classificazione lineare
 1. [`Classificazione probabilistica.`{:.filelink}]({{ site.baseurl }}{%link slides/probclass-slides.pdf %}) Classificazione probabilistica
+1. [`Metodi Montecarlo.`{:.filelink}]({{ site.baseurl }}{%link slides/sampling-slides.pdf %}) Metodi Montecarlo
+1. [`Metodi non parametrici.`{:.filelink}]({{ site.baseurl }}{%link slides/nonparam-slides.pdf %}) Metodi non parametrici
