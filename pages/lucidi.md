@@ -15,4 +15,5 @@ header: no
 1. [`Classificazione probabilistica.`{:.filelink}]({{ site.baseurl }}{%link slides/probclass-slides.pdf %}) Classificazione probabilistica
 1. [`Metodi Montecarlo.`{:.filelink}]({{ site.baseurl }}{%link slides/sampling-slides.pdf %}) Metodi Montecarlo
 1. [`Metodi non parametrici.`{:.filelink}]({{ site.baseurl }}{%link slides/nonparam-slides.pdf %}) Metodi non parametrici
+1. [`Processi gaussiani.`{:.filelink}]({{ site.baseurl }}{%link slides/gp-slides.pdf %}) Krnel regressione e processi gaussiani
 1. [`Support vector machines.`{:.filelink}]({{ site.baseurl }}{%link slides/svm-slides.pdf %}) Support vector machines
