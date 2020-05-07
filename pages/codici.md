@@ -33,15 +33,18 @@ header: no
 1. [`MCMC.`{:.codelink}]({{ site.baseurl }}{%link codici/MCMC.ipynb %}) Esempio di applicazione di MCMC (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/MCMC.ipynb)
 1. [`linregr_mc.`{:.codelink}]({{ site.baseurl }}{%link codici/linregr_mc.ipynb %}) Regressione lineare mediante inferenza MCMC in pymc3 (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/linregr_mc.ipynb)
 1. [`ROC.`{:.codelink}]({{ site.baseurl }}{%link codici/ROC.ipynb %}) RROC e misure varie (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/ROC.ipynb)
-
-<!--
-1. [`LDAdimred.`{:.codelink}]({{ site.baseurl }}{%link codici/lda_dimred.ipynb %}) Riduzione di dimensionalità mediante LDA (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/lda_dimred.ipynb)
-
 1. [`Parzen windows.`{:.codelink}]({{ site.baseurl }}{%link codici/parzen.ipynb %}) Applicazione delle Parzen windows alla classificazione (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/parzen.ipynb)
 1. [`Knn.`{:.codelink}]({{ site.baseurl }}{%link codici/knn.ipynb %}) Classificazione mediante k nearest neighbor (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/knn.ipynb)
 1. [`Local regression.`{:.codelink}]({{ site.baseurl }}{%link codici/local_regr.ipynb %}) Local regression mediante funzioni kernel (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/local_regr.ipynb)
 1. [`Gaussian process.`{:.codelink}]({{ site.baseurl }}{%link codici/gp.ipynb %}) Regressione mediante processi gaussiani (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/gp.ipynb)
 1. [`SVM.`{:.codelink}]({{ site.baseurl }}{%link codici/svm_xor.ipynb %}) Support vector machine su dataset di tipo XOR (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/svm_xor.ipynb)
+
+<!--
+1. [`LDAdimred.`{:.codelink}]({{ site.baseurl }}{%link codici/lda_dimred.ipynb %}) Riduzione di dimensionalità mediante LDA (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/lda_dimred.ipynb)
+
+
+
+
 1. [`Backprop.`{:.codelink}]({{ site.baseurl }}{%link codici/backprop.ipynb %}) Backpropagation in MLP a 3 layer (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/backprop.ipynb)
 1. [`PCA.`{:.codelink}]({{ site.baseurl }}{%link codici/pca.ipynb %}) Principal component analysis (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/pca.ipynb)
 1. [`PCA e compressione.`{:.codelink}]({{ site.baseurl }}{%link codici/PCA_austen.ipynb %}) Compressione mediante PCA (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/PCA_austen.ipynb)
