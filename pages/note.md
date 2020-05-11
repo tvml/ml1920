@@ -17,3 +17,5 @@ header: no
 1. [`Metodi non parametrici.`{:.filelink}]({{ site.baseurl }}{%link note/nonparam-notes.pdf %}) Metodi non parametrici
 1. [`Processi gaussiani.`{:.filelink}]({{ site.baseurl }}{%link note/gp-notes.pdf %}) Krnel regressione e processi gaussiani
 1. [`Support vector machines.`{:.filelink}]({{ site.baseurl }}{%link note/svm-notes.pdf %}) Support vector machines
+1. [`Neural networks.`{:.filelink}]({{ site.baseurl }}{%link note/neural-notes.pdf %}) Neural networks
+1. [`Deep learning.`{:.filelink}]({{ site.baseurl }}{%link note/deep-notes.pdf %}) Deep learning
