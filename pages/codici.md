@@ -38,8 +38,9 @@ header: no
 1. [`Local regression.`{:.codelink}]({{ site.baseurl }}{%link codici/local_regr.ipynb %}) Local regression mediante funzioni kernel (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/local_regr.ipynb)
 1. [`Gaussian process.`{:.codelink}]({{ site.baseurl }}{%link codici/gp.ipynb %}) Regressione mediante processi gaussiani (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/gp.ipynb)
 1. [`SVM.`{:.codelink}]({{ site.baseurl }}{%link codici/svm_xor.ipynb %}) Support vector machine su dataset di tipo XOR (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/svm_xor.ipynb)
-1. [`Gaussian process (more).`{:.codelink}]({{ site.baseurl }}{%link codici/gaussian_processes.ipynb %}) Anocora su regressione mediante processi gaussiani (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/gaussian_processes.ipynb)
-1. [`Classificazione testo.`{:.codelink}]({{ site.baseurl }}{%link codici/TextClassification.ipynb %}) Anocora su regressione mediante processi gaussiani (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/TextClassification.ipynb)
+1. [`Gaussian process (more).`{:.codelink}]({{ site.baseurl }}{%link codici/gaussian_processes.ipynb %}) Ancora su regressione mediante processi gaussiani (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/gaussian_processes.ipynb)
+1. [`Classificazione testo.`{:.codelink}]({{ site.baseurl }}{%link codici/TextClassification.ipynb %}) Classificazione multiclass di testi (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/TextClassification.ipynb)
+1. [`SVM custom kernel.`{:.codelink}]({{ site.baseurl }}{%link codici/svm_custom_kernel.ipynb %}) SVM con kernel custom (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/svm_custom_kernel.ipynb)
 
 <!--
 1. [`LDAdimred.`{:.codelink}]({{ site.baseurl }}{%link codici/lda_dimred.ipynb %}) Riduzione di dimensionalità mediante LDA (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/lda_dimred.ipynb)
