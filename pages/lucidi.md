@@ -19,3 +19,5 @@ header: no
 1. [`Support vector machines.`{:.filelink}]({{ site.baseurl }}{%link slides/svm-slides.pdf %}) Support vector machines
 1. [`Neural networks.`{:.filelink}]({{ site.baseurl }}{%link slides/neural-slides.pdf %}) Neural networks
 1. [`Deep learning.`{:.filelink}]({{ site.baseurl }}{%link slides/deep-slides.pdf %}) Deep learning
+1. [`Decision trees.`{:.filelink}]({{ site.baseurl }}{%link slides/dectrees-slides.pdf %}) Decision trees
+1. [`Ensemble.`{:.filelink}]({{ site.baseurl }}{%link slides/ensemble-slides.pdf %}) Metodi ensemble
