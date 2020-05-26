@@ -41,6 +41,7 @@ header: no
 1. [`Gaussian process (more).`{:.codelink}]({{ site.baseurl }}{%link codici/gaussian_processes.ipynb %}) Ancora su regressione mediante processi gaussiani (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/gaussian_processes.ipynb)
 1. [`Classificazione testo.`{:.codelink}]({{ site.baseurl }}{%link codici/TextClassification.ipynb %}) Classificazione multiclass di testi (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/TextClassification.ipynb)
 1. [`SVM custom kernel.`{:.codelink}]({{ site.baseurl }}{%link codici/svm_custom_kernel.ipynb %}) SVM con kernel custom (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/svm_custom_kernel.ipynb)
+1. [`Backprop.`{:.codelink}]({{ site.baseurl }}{%link codici/backprop.ipynb %}) Backpropagation in MLP a 3 layer (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/backprop.ipynb)
 
 <!--
 1. [`LDAdimred.`{:.codelink}]({{ site.baseurl }}{%link codici/lda_dimred.ipynb %}) Riduzione di dimensionalità mediante LDA (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/lda_dimred.ipynb)
@@ -48,7 +49,7 @@ header: no
 
 
 
-1. [`Backprop.`{:.codelink}]({{ site.baseurl }}{%link codici/backprop.ipynb %}) Backpropagation in MLP a 3 layer (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/backprop.ipynb)
+
 1. [`PCA.`{:.codelink}]({{ site.baseurl }}{%link codici/pca.ipynb %}) Principal component analysis (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/pca.ipynb)
 1. [`PCA e compressione.`{:.codelink}]({{ site.baseurl }}{%link codici/PCA_austen.ipynb %}) Compressione mediante PCA (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/PCA_austen.ipynb)
 1. [`Eigenfaces.`{:.codelink}]({{ site.baseurl }}{%link codici/eigenfaces.ipynb %}) Riconoscimento di volti mediante PCA e SVM (notebook) [In nbviewer](https://nbviewer.jupyter.org/github/tvml/ml1920/blob/master/codici/eigenfaces.ipynb)
