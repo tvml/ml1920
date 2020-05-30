@@ -21,3 +21,4 @@ header: no
 1. [`Deep learning.`{:.filelink}]({{ site.baseurl }}{%link slides/deep-slides.pdf %}) Deep learning
 1. [`Decision trees.`{:.filelink}]({{ site.baseurl }}{%link slides/dectrees-slides.pdf %}) Decision trees
 1. [`Ensemble.`{:.filelink}]({{ site.baseurl }}{%link slides/ensemble-slides.pdf %}) Metodi ensemble
+1. [`PCA.`{:.filelink}]({{ site.baseurl }}{%link slides/pca-slides.pdf %}) Principal component analysis
