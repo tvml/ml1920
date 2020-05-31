@@ -22,3 +22,4 @@ header: no
 1. [`Decision trees.`{:.filelink}]({{ site.baseurl }}{%link note/dectrees-notes.pdf %}) Decision trees
 1. [`Ensemble.`{:.filelink}]({{ site.baseurl }}{%link note/ensemble-notes.pdf %}) Metodi ensemble
 1. [`PCA.`{:.filelink}]({{ site.baseurl }}{%link note/pca-notes.pdf %}) Principal component analysis
+1. [`Clustering.`{:.filelink}]({{ site.baseurl }}{%link note/clustering-notes.pdf %}) Clustering
