@@ -9,6 +9,42 @@
 		<atom:link href="http://localhost:4000/ml1920/feed.xml" rel="self" type="application/rss+xml" />
 		
 			<item>
+				<title>Appelli sessione autunnale</title>
+				<link>http://localhost:4000/ml1920/comunicazioni/appelli-sessione-autunnale/</link>
+				<pubDate>Fri, 31 Jul 2020 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;Gli appelli di esame per la sessione autunnale sono fissati alle seguenti date:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Venerdì 11 settembre 2020, alle ore 10, online via Teams&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Giovedì 24 settembre 2020, alle ore 10, online via Teams&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/ml1920/comunicazioni/appelli-sessione-autunnale/</guid>
+			</item>
+		
+			<item>
+				<title>Appelli sessione estiva</title>
+				<link>http://localhost:4000/ml1920/comunicazioni/appelli-sessione-estiva/</link>
+				<pubDate>Mon, 25 May 2020 00:00:00 +0200</pubDate>
+				<description>&lt;p&gt;Gli appelli di esame per la sessione estiva sono fissati alle seguenti date:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;Mercoledì 1 luglio 2020, alle ore 10, online via Teams&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Venerdì 24 luglio 2020, alle ore 10, online via Teams&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+				<guid isPermaLink="true">http://localhost:4000/ml1920/comunicazioni/appelli-sessione-estiva/</guid>
+			</item>
+		
+			<item>
 				<title>Organizzazione didattica online - 2</title>
 				<link>http://localhost:4000/ml1920/comunicazioni/python/</link>
 				<pubDate>Thu, 12 Mar 2020 00:00:00 +0100</pubDate>
